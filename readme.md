@@ -27,7 +27,7 @@ El repositorio contiene tres archivos sql:
 
 ### Pre-requisitos 📋
 
-Se requiere SQL Server(2016 de preferencia), para la ejecución de los scripts.
+Se requiere Microsoft SQL Server(2016 de preferencia), para la ejecución de los scripts.
 
 ## Autor ✒️
 
