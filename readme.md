@@ -2,7 +2,7 @@
 
 Base de datos de ejemplo para ayuda en facturación de una Zapatería.
 
-## Problema a Resolver. 🔨 🔧 💣
+## Problema a Resolver.  🔧 💣 🔨
 
 Diseñar una Base de datos que permita registrar la facturación de los productos de la zapatería "El zapato roto", registrar productos, clientes, facturas e inventario.
 
