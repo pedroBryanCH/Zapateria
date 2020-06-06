@@ -5,6 +5,7 @@ Autor: Pedro Bryan Cajavilca Huaytalla
 
 USE master ;
 GO
+
 /*Creacion de base de datos Zapateria*/
 CREATE DATABASE Zapateria;  
 GO
@@ -139,6 +140,7 @@ REFERENCES Zapateria.dbo.Producto (COD_PROD)
 ON DELETE CASCADE
 ON UPDATE CASCADE
 ;
+GO
 
 /*Cliente-Pais*/
 
