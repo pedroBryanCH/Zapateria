@@ -6,6 +6,12 @@ Base de datos de ejemplo para ayuda en facturación de una Zapatería.
 
 Diseñar una Base de datos que permita registrar la facturación de los productos de la zapatería "El zapato roto", registrar productos, clientes, facturas e inventario.
 
+* Los productos tendrán como mínimo: Nombre, presentación, valor. 
+* Los clientes tendrán como mínimo: Identificación, nombre, país.
+* El inventario tendrá como mínimo: producto, tipo de movimiento (entrada o salida), fecha, cantidad.
+* La facturación debe tener como mínimo: la información del cliente, los productos comprados, impuestos, descuentos, valor a pagar.
+* Esta base de datos debe estar en 3ra forma normal.
+
 ## Comenzando 🚀
 
 El repositorio contiene tres archivos sql:
@@ -31,4 +37,9 @@ Se requiere SQL Server(2016 de preferencia), para la ejecución de los scripts.
 
 Estos scripts están libre de uso, como un pequeño aporte y está sujeto a sugerencias de mejora.
 ---
+
+## Agradecimientos 🎁
+
+* Agradezco a [edteam](https://ed.team/) por la oportunidad y el planteamiento del ejercicio muy práctico.
+
 ⌨️ con ❤️ por [pedroBryanCH](https://github.com/pedroBryanCH) 😊
