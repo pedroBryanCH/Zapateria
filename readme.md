@@ -1,4 +1,4 @@
-# Zapatería el Zapato Roto 👞 👟 👠 👡 👢
+# Zapatería "El Zapato Roto" 👞 👟 👠 👡 👢
 
 Base de datos de ejemplo para ayuda en facturación de una Zapatería.
 
