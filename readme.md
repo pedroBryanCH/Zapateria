@@ -1,8 +1,8 @@
-# Zapatería el Zapato Roto
+# Zapatería el Zapato Roto 👞 👟 👠 👡 👢
 
 Base de datos de ejemplo para ayuda en facturación de una Zapatería.
 
-## Problema a Resolver.
+## Problema a Resolver. 🔨 🔧 💣
 
 Diseñar una Base de datos que permita registrar la facturación de los productos de la zapatería "El zapato roto", registrar productos, clientes, facturas e inventario.
 
@@ -29,6 +29,6 @@ Se requiere SQL Server(2016 de preferencia), para la ejecución de los scripts.
 
 ## Licencia 📄
 
-Estos scripts estan libre de uso, como un pequeño aporte y está sujeto a sugerencias de mejora.
+Estos scripts están libre de uso, como un pequeño aporte y está sujeto a sugerencias de mejora.
 ---
 ⌨️ con ❤️ por [pedroBryanCH](https://github.com/pedroBryanCH) 😊
