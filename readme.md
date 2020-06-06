@@ -6,7 +6,7 @@ Base de datos de ejemplo para ayuda en facturación de una Zapatería.
 
 Diseñar una Base de datos que permita registrar la facturación de los productos de la zapatería "El zapato roto", registrar productos, clientes, facturas e inventario.
 
-## Comenzando ??
+## Comenzando 🚀
 
 El repositorio contiene tres archivos sql:
 
@@ -25,10 +25,10 @@ Se requiere SQL Server(2016 de preferencia), para la ejecución de los scripts.
 
 ## Autor ✒️
 
-* **Pedro Bryan Cajavilca Huaytalla** - *Trabajo Inicial* - [pedroBryanCH](https://gist.github.com/pedroBryanCH)
+* **Pedro Bryan Cajavilca Huaytalla** - *Trabajo Inicial* - [pedroBryanCH](https://github.com/pedroBryanCH)
 
 ## Licencia 📄
 
 Estos scripts estan libre de uso, como un pequeño aporte y está sujeto a sugerencias de mejora.
 ---
-⌨️ con ❤️ por [pedroBryanCH](https://gist.github.com/pedroBryanCH) 😊
+⌨️ con ❤️ por [pedroBryanCH](https://github.com/pedroBryanCH) 😊
